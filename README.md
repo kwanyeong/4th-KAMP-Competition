@@ -18,17 +18,22 @@
 - 데이터
 ![image](https://github.com/user-attachments/assets/2c4aa5e9-0ffb-4e4b-9490-366af8168b8c)
 
+
 - 데이터 전처리 흐름도
 ![image](https://github.com/user-attachments/assets/c128ae2f-7104-4541-85bc-544b2927ed92)
+
 
 - 품질평가 주요인자(Main Factors) 도출
 ![image](https://github.com/user-attachments/assets/97dd3265-4e73-4e6b-b716-d05ef82da704)
 
+
 - 시계열 예측 모델링 
 ![image](https://github.com/user-attachments/assets/006d6b73-6bbc-46cb-929f-27229c7bfa30)
 
+
 - 성능평가
 ![image](https://github.com/user-attachments/assets/6227fae0-57d2-4fc6-b657-7fae66da2e60)
+
 
 
 ---
@@ -40,7 +45,7 @@
 ---
 ### 보완 및 향후계획
 - SMOTE 기법을 활용한 오버샘플링(Oversampling) - 부적합 데이터 증강 생성
-- OneClassSVM을 활용한 적/부 데이터 Anomaly Score 예측 분류
+- OneClassSVM을 활용한 적/부 품질데이터 Anomaly Score 예측 분류
 - 데이터 생성을 통한 실시간(Real-Time) 품질 예측
 
 ---
