@@ -47,7 +47,6 @@
 
 ---
 ### 발표 PPT자료
-[![image](https://github.com/user-attachments/assets/8edb31e2-3b3c-47e5-927b-f13a84d8deff)]
+[![image](https://github.com/user-attachments/assets/8edb31e2-3b3c-47e5-927b-f13a84d8deff)]((https://github.com/user-attachments/files/17832110/_._._.AI.pdf))
 
-
-[머신비전 프로젝트 PPT](https://github.com/kwanyeong/Machine-Vision/files/15148029/default.pptx)
+[KAMP 제조데이터 분석 (시계열 부문) PPT](https://github.com/user-attachments/files/17832110/_._._.AI.pdf)
