@@ -16,24 +16,19 @@
 ---
 ### 프로젝트 설명
 - 데이터
-![image](https://github.com/user-attachments/assets/2c4aa5e9-0ffb-4e4b-9490-366af8168b8c)
-
+![image](https://github.com/user-attachments/assets/e5c98405-7f2d-4829-a3be-f4dfdf95a44e)
 
 - 데이터 전처리 흐름도
-![image](https://github.com/user-attachments/assets/c128ae2f-7104-4541-85bc-544b2927ed92)
-
+![image](https://github.com/user-attachments/assets/a1ac2d3d-67ff-424d-83fa-0807a5f95c8e)
 
 - 품질평가 주요인자(Main Factors) 도출
-![image](https://github.com/user-attachments/assets/97dd3265-4e73-4e6b-b716-d05ef82da704)
+![image](https://github.com/user-attachments/assets/0138e767-a13d-4563-9ad8-166aeea40ed6)
 
-
-- 시계열 예측 모델링 
-![image](https://github.com/user-attachments/assets/006d6b73-6bbc-46cb-929f-27229c7bfa30)
-
+- 시계열 예측 모델링
+![image](https://github.com/user-attachments/assets/ae4d004b-9bc4-490c-8d90-f32d4495fbb9)
 
 - 성능평가
-![image](https://github.com/user-attachments/assets/6227fae0-57d2-4fc6-b657-7fae66da2e60)
-
+![image](https://github.com/user-attachments/assets/fea1c466-5adf-4ea3-b1cf-3c76f27f0d7b)
 
 
 ---
